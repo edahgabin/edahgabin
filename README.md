@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**edahgabin/edahgabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Gabin EDAH</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Computer Science Student | Web Developer | Python Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science student at UNSTIM (FAST), MI3.
+- 💻 Interested in Web Development and Software Engineering.
+- 🐍 Passionate about Python programming.
+- 📐 Interested in Computational and Applied Mathematics.
+- 🚀 Always learning and building new projects.
+
+### 🛠️ Interests
+
+- Web Development
+- Python Programming
+- Applied Mathematics
+- Scientific Computing
+- Software Development
+
+### 📫 Connect with Me
+
+- GitHub: [@edahgabin](https://github.com/edahgabin)
+
+---
+
+<p align="center">
+  <i>Learning, building, and growing every day.</i>
+</p>
